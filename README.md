@@ -12,7 +12,6 @@ This repository is created to collect the resources I found on my way to learn J
 - [Event Loop](#event-loop)
 - [Prototypal Inheritance](#prototypal-inheritance)
 - [MicroFrontends](#microfrontends)
-- [Miscellaneous](#miscellaneous)
 
 ## Hoisting
 - [JavaScript Hoisting Explained](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
@@ -33,5 +32,3 @@ This repository is created to collect the resources I found on my way to learn J
 ## Prototypal Inheritance
 
 ## MicroFrontends
-
-## Miscellaneous
