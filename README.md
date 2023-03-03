@@ -1,6 +1,6 @@
 # JavaScript Bookmarks
 
-This repository contains links, articles, books, etc. that I found on my way to learn JavaScript more deeply. It contains a collection of bookmarks that I created by separating subject by subject.
+This repository is created to collect the resources I found on my way to learn JavaScript in depth. I will keep updating this repository. If you have any resource about this topic, please send a PR.
 
 ## Table of Contents
 - [Hoisting](#hoisting)
