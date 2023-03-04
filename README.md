@@ -14,9 +14,9 @@ This repository is created to collect the resources I found on my way to learn J
 - [MicroFrontends](#microfrontends)
 
 ## Hoisting
-- [JavaScript Hoisting | Programiz](https://www.programiz.com/javascript/hoisting)
-- [Hoisting | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-- **[JavaScript Hoisting Explained*](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)**
+- [JavaScript Hoisting - Programiz](https://www.programiz.com/javascript/hoisting)
+- [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- **[JavaScript Hoisting Explained](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)**
 - [Learn JavaScript Hoisting In 5 Minutes](https://www.youtube.com/watch?v=EvfRXyKa_GI)
 
 ## Closures
